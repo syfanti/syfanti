@@ -18,8 +18,7 @@ each with its projects, documentation, and results.
 | [practical-data-science](https://github.com/syfanti/practical-data-science) | Practical Data Science | ML prediction of human risky choices (hybrid cognitive model + gradient boosting), reproduction of a 2025 *Nature* paper analysis, LLM representation bias analysis |
 | *coming soon* | Machine Learning & Computational Statistics | |
 | *coming soon* | Text Analytics | |
-| *coming soon* | Large-Scale Data Management | |
-
+| [large-scale-data-management](https://github.com/syfanti/large-scale-data-management) | Large-Scale Data Management | Real-time Kafka → Spark Structured Streaming → Cassandra pipeline; custom Hadoop MapReduce analytics on HDFS |
 ## 🔧 Toolbox
 
 **Data & ML:** Python · pandas · scikit-learn · NumPy · statsmodels
