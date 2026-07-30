@@ -15,6 +15,7 @@ each with its projects, documentation, and results.
 
 | Repository | Course | Highlights |
 |---|---|---|
+| [publication-venue-prediction](https://github.com/syfanti/publication-venue-prediction) | Data Challenge | 4th-place solo Kaggle solution: GraphSAGE GNN + SBERT + LightGBM ensemble on a 218k-paper citation network |
 | [practical-data-science](https://github.com/syfanti/practical-data-science) | Practical Data Science | ML prediction of human risky choices (hybrid cognitive model + gradient boosting), reproduction of a 2025 *Nature* paper analysis, LLM representation bias analysis |
 | *coming soon* | Machine Learning & Computational Statistics | |
 | [text-analytics](https://github.com/syfanti/text-analytics) | Text Analytics | N-gram language models, neural POS tagging (PyTorch), and a controlled RNN vs CNN vs fine-tuned BERT sentiment comparison |
